@@ -17,8 +17,9 @@
 - Accepts GitHub Username
 - Presents the list of public repositories of the GitHub user
 - Links to the respective GitHub Repos
-- Runs in dark mode
 - Shows Stars, Forks, Languages, and descriptions for each repo
+- Runs in dark mode
+- Responsive
 
 ## Future Features:-
 - Commits chart
