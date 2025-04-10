@@ -1,7 +1,7 @@
 # Github User Profile Analyzer
 
 ## How to run it locally?
-- Unzip the folder
+- Clone the repo
 - Open the folder in a code editor, viz. VS Code
 - Install dependencies:- npm install
 - Run locally:- npm run dev
