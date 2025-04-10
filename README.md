@@ -18,3 +18,6 @@
 - Presents the list of public repositories of the GitHub user
 - Runs in dark mode
 - Shows Stars, Forks, Languages, and descriptions for each repo
+
+## Future Features:-
+- Commits chart
